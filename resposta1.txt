@@ -1,0 +1,7 @@
+find /home/bcc/gtk10 *.txt -exec mv {} /home/bcc/gtk10/arquivo_texto \;
+
+find para procurar
+em seguida o local para se fazer a procura
+em terceiro o que se quer procurar no caso *.txt
+-exec para que quando achar algo executar algo
+no caso mover os arquivos encontrados

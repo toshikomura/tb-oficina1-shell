@@ -1,0 +1,7 @@
+cat lista_tefeones.txt |grep apto | cut -d':' -f1,2 
+
+cat para mostrar o conteudo da lista 
+grep para selecionar somente quem mora em apartamento
+
+cut para retirar as linhas que nao precisam ser mostradas
+com a opçao -d utiliza como delimitador : e com -f escolho as colunas que desejo no caso a primeira e a segunda^C

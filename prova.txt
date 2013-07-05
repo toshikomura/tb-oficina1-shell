@@ -1,0 +1,46 @@
+PROVA 1 - Disciplina de Oficina de Programação (CI066) - 19/04/2010
+
+Leia atentamente as questões.
+Responda as questões em um arquivos separados como especificado.
+Estes arquivos devem estar neste diretório prova1_ci066
+Ao final da prova execute o programa de entrega:
+/home/especial/ci066/luciano/prova1/entregaprova
+
+Boa Prova!
+
+
+
+1. Escreva uma linha de comando para mover todos os seus arquivos com terminação
+.txt para um diretório chamando arquivos_texto.
+Explique  sua  resposta. 
+OBS: A resposta desta questão deve ser  escrita no seu diretório
+prova1_ci066, em  um arquivo texto chamado:
+resposta1.txt
+
+2. Escreva uma linha de comando para gerar um arquivo chamado total.txt no
+diretório /user/conta que contém um número que contabiliza o total de
+arquivos encontrados a partir da sua HOME e que tem terminação .txt
+Explique  sua  resposta. 
+OBS: A resposta desta questão deve ser  escrita no seu diretório
+prova1_ci066, em um arquivo texto chamado:
+resposta2.txt
+
+3. Você possui um arquivo chamado lista_tefeones.txt que  contém
+5000 nomes. Este arquivo possui 6 colunas  separadas por ":", 
+com nome, número de telefone, cidade onde  mora, endereço,
+número da residência e complemento. Este arquivo esta todo 
+padronizado conforme o exemplo abaixo:
+
+Maria da Silva:41-33329920:Curitiba:Rua Joao Manoel:134:apto 12
+Carlos Santos:45-33420312:Cascavel:Av. Marechal Deodoro:1232:
+Antonio Muniz:41-33010101:Curitiba:Rua Jose Lucas:123:apto 44A
+Norma Cascavel:11-33205500:Sao Paulo:Rua Carlos Less:992:
+
+Utilizando uma linha de comando no SHELL, responda
+Como você poderia gerar um arquivo com apenas duas colunas, sendo a primeira
+o nome completo e a segunda o telefone, de todas as pessoas que moram
+em uma determinada cidade e que residem am apartamento?
+OBS: A resposta desta questão deve ser  escrita no seu diretório
+prova1_ci066, em um arquivo texto chamado:
+resposta3.txt
+

@@ -1,0 +1,6 @@
+find ~ *.txt |wc -l >/user/conta/total.txt
+
+find para procurar
+~ indicando que a procura deve ser feita na home
+o que se quer procurar * qualquer coisa .txt
+wc -l para contar quantos arquivos foram encontrados
